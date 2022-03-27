@@ -2,10 +2,10 @@
 
 Aspiring to become a Software Engineer.I want to obtain the position that I can use to develop my knowledge and skills through modern technologies and to provide strong contribution in company's goal that will help to the development and to provide the best opportunity and achivements.
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Zhi0105&show_icons=true&theme=radical"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhi0105&layout=compact&theme=radical"/>
+<img align="left" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api?username=Zhi0105&show_icons=true&theme=radical"/>
+<img align="left" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhi0105&layout=compact&theme=radical"/>
 
-<a href="https://github.com/Zhi0105%22%3E<img alt="Argie's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Zhi0105&custom_title=Argie%27s%20Contribution%20Graph&theme=rogue" /></a>
+
 
 <!--
 **Zhi0105/Zhi0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
