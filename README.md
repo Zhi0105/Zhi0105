@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Argie Barcena 👋
+
+Aspiring to become a Software Engineer.I want to obtain the position that I can use to develop my knowledge and skills through modern technologies and to provide strong contribution in company's goal that will help to the development and to provide the best opportunity and achivements.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhi0105)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Zhi0105/Zhi0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
