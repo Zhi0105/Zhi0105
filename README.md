@@ -5,7 +5,10 @@ Aspiring to become a Software Engineer.I want to obtain the position that I can 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhi0105&layout=compact&theme=radical" alt="stats" width="380" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Zhi0105&show_icons=true&theme=radical" alt="lang" width="410" /></p>
 
-
+<br />
+<br />
+<p><img src="https://activity-graph.herokuapp.com/graph?username=Zhi0105&theme=react-dark" />
+</p>
 
 <!--
 **Zhi0105/Zhi0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
