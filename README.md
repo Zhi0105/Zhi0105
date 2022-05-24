@@ -7,9 +7,9 @@ Aspiring to become a Software Engineer.I want to obtain the position that I can 
 
 <br/><br/><br/><br/><br/>
 
-<!-- <p><img src="https://activity-graph.herokuapp.com/graph?username=Zhi0105&theme=react-dark" />
+<p><img src="https://activity-graph.herokuapp.com/graph?username=Zhi0105&theme=react-dark" />
 </p>
- -->
+ 
 <!--
 **Zhi0105/Zhi0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
