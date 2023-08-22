@@ -1,4 +1,4 @@
-### Hi there, I'm Argie Barcena 👋
+### Hi, I'm Argie Barcena 👋
 
 Aspiring to become a Software Engineer.I want to obtain the position that I can use to develop my knowledge and skills through modern technologies and to provide strong contribution in company's goal that will help to the development and to provide the best opportunity and achivements.
 
