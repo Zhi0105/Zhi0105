@@ -4,7 +4,6 @@ Aspiring to become a Software Engineer.I want to obtain the position that I can 
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Zhi0105&show_icons=true&theme=radical" width="320" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=Zhi0105&show_icons=true&theme=radical" width="340" alt="lang" />
 
 <!-- <p><img src="https://activity-graph.herokuapp.com/graph?username=Zhi0105&theme=react-dark" /></p> -->
 <!--
