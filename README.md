@@ -3,7 +3,7 @@
 Aspiring to become a Software Engineer.I want to obtain the position that I can use to develop my knowledge and skills through modern technologies and to provide strong contribution in company's goal that will help to the development and to provide the best opportunity and achivements.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" width="320" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Zhi0105&show_icons=true&theme=radical" width="320" alt="stats" />
 
 <!-- <p><img src="https://activity-graph.herokuapp.com/graph?username=Zhi0105&theme=react-dark" /></p> -->
 <!--
